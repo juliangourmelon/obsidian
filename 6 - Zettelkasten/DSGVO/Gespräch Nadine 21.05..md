@@ -1,0 +1,14 @@
+- Allgemeine Punkte, die wichtig für den Datenschutz sind:
+	- Wie viele Schritte durchlaufen werden müssen, damit Daten tatsächlich nach außen geraten?
+	- Wie schwer hätte es ein Angreifer, um an sensible Daten zu kommen?
+	- Wie lange würde es dauern, bis ein Angriff erkannt wird?
+	- Wie gut ist das Logging der Daten -> Werden Daten in SIEM nur einmal am Tag überprüft, oder gibt es ein engmaschiges Monitoring?
+	- Wie gut können wir den Zugriff auf Daten über Rechte kontrollierbar machen?
+	- => in all diesen Punkten sind wir sehr gut aufgestellt :)
+- Gesundheitsdaten haben häufig Schutzbedarfsstufe "sehr hoch"
+- Allerdings ist jeder Bedarfsträger erstmal für seine eigenen Daten selbst verantwortlich. Für diese muss er sein eigenes Datenschutzkonzept entwickeln und eine Datenschutzfolgeabschätzung durchführen. Wenn der Bedarfsträger hier seine Daten nur als "hoch" einschätzt, gilt das auch für uns. 
+- In dem Datenschutzkonzept des Kunden sollte auch beschrieben sein, wie die Daten technisch zu schützen sind. Das kann als Anforderungsliste für uns dienen.
+- Wir brauchen mittelfristig ein Datenschutzkonzept für die Plattform
+	- Das Konzept sollte normalerweise in letzter Instanz vom Plattforminhaber (DRV) stammen
+	- CC hat eine Anwaltskanzlei an der Hand, die hier unterstützen kann
+	- => Die Grundlagen für das Konzept werde ich natürlich liefern
