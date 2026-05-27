@@ -71,3 +71,8 @@ Tags: [[AI_GATEWAY]] [[MCP_GATEWAY]]
 - Selbst deploytes Modell muss auch zur eigenen Rechnung dazuzählen
 - (Eigener Systemprompt pro Modell) [[Watson X Gateway#^56894c]]]
 - GPU-Größe selbst wählen
+
+
+### Nice to haves:
+
+- Effizientes Routing (bestimmte Anfragen gehen an bestimmte Modelle)

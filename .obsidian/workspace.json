@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "4edffe63e97e2278",
+        "id": "39d6822902452e11",
         "type": "tabs",
         "children": [
           {
-            "id": "5e7b90e075820c98",
+            "id": "08b6da7f5380a850",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettelkasten/AI Gateway/Anforderungskatalog.md",
+                "file": "1 - Notizen/ToDo's.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anforderungskatalog"
+              "title": "ToDo's"
+            }
+          },
+          {
+            "id": "9b969496062bf58a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Notizen/ToDo's.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ToDo's"
             }
           }
         ]
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSGVO/Gespräch Nadine 21.05..md",
+                "file": "1 - Notizen/ToDo's.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gespräch Nadine 21.05."
+              "title": "Backlinks for ToDo's"
             }
           },
           {
@@ -113,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Zettelkasten/AI Gateway/Anforderungskatalog.md",
+                "file": "1 - Notizen/ToDo's.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Anforderungskatalog"
+              "title": "Outgoing links from ToDo's"
             }
           },
           {
@@ -150,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of Gespräch Nadine 21.05."
             }
+          },
+          {
+            "id": "259846c921c6d750",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,20 +190,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e7b90e075820c98",
+  "active": "08b6da7f5380a850",
   "lastOpenFiles": [
-    "3 - Tags/AI_GATEWAY.md",
-    "6 - Zettelkasten/AI Gateway/Anforderungskatalog.md",
-    "3 - Tags/MCP_GATEWAY.md",
-    "1 - Notizen/Zu klärende Punkte.md",
-    "6 - Zettelkasten/AI Gateway/LiteMaaS.md",
-    "6 - Zettelkasten/Artifactory.md",
-    "1 - Notizen/Nächste Schritte Obsidian.md",
-    "3 - Tags/AI_GOVERNANCE.md",
+    "1 - Notizen/ToDos Workshop Nürnberg.md",
     "1 - Notizen/ToDo's.md",
+    "1 - Notizen/Zu klärende Punkte.md",
+    "1 - Notizen/Nächste Schritte Obsidian.md",
+    "6 - Zettelkasten/AI Gateway/Anforderungskatalog.md",
+    "6 - Zettelkasten/AI Gateway/LiteLLM.md",
+    "6 - Zettelkasten/AI Gateway/LiteMaaS.md",
+    "6 - Zettelkasten/AI Gateway/MCP-Gateways.md",
+    "7 - OneNote Import/Azure Security - KPMG - Julius.md",
+    "7 - OneNote Import/Sichere Modell- und Artefaktverwaltung.md",
+    "3 - Tags/AI_SECURITY.md",
+    "7 - OneNote Import/Glossar.md",
+    "3 - Tags/BSI.md",
+    "7 - OneNote Import",
+    "6 - Zettelkasten/Governance",
+    "6 - Zettelkasten/Untitled 1.base",
+    "6 - Zettelkasten/Untitled.base",
+    "3 - Tags/AI_GATEWAY.md",
+    "3 - Tags/MCP_GATEWAY.md",
+    "6 - Zettelkasten/Artifactory.md",
+    "3 - Tags/AI_GOVERNANCE.md",
     "6 - Zettelkasten/AI Gateway/Watson X Gateway.md",
     "3 - Tags/AI_MODELS.md",
     "6 - Zettelkasten/Model Repository.md",
@@ -194,13 +231,6 @@
     "6 - Zettelkasten",
     "1 - Notizen",
     "6 - Zettelkasten/DSGVO/Gespräch Nadine 21.05..md",
-    "[.md",
-    "Mandantentrennung/Untitled",
-    "6 - Zettelkasten/Mandantentrennung",
-    "Notizen Johannes.md",
-    "6 - Zettelkasten/AI Gateway",
-    "6 - Zettelkasten/DSGVO",
-    "Welcome.md",
-    "create a link.md"
+    "[.md"
   ]
 }
