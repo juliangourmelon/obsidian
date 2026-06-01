@@ -6,3 +6,5 @@
 - [x] AI-Gateway ✅ 2026-05-26
 - [x] Betriebsmodelle ✅ 2026-05-26
 - [x] Datenschutz / Data Management ✅ 2026-05-26
+
+
