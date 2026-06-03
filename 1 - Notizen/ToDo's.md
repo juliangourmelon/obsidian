@@ -32,11 +32,11 @@
 - [ ] Hat Jens Brandenburg eine Struktur für ein Architekturkonzept? 
 
 - [ ] Folgetermin mit Ralf und Martin (Themen mit Martin vorbereiten) 📅 2026-06-02 
-- [ ] Ist der Intelligent Assistant Service kostenpflichtig? 📅 2026-05-31 
-- [ ] Mit Daniel sprechen zur Freischaltung des granite Endpoints 📅 2026-06-01 
-- [ ] Ansible Lightspeed Use Case in Masterliste übernehmen 📅 2026-06-01 
+- [x] Ist der Intelligent Assistant Service kostenpflichtig? 📅 2026-05-31 ✅ 2026-06-02
+- [x] Mit Daniel sprechen zur Freischaltung des granite Endpoints 📅 2026-06-01 ✅ 2026-06-01
+- [x] Ansible Lightspeed Use Case in Masterliste übernehmen 📅 2026-06-01 ✅ 2026-06-02
 - [ ] Rausfinden, welche Availability wir brauchen für AAP (sonst können wir die Fusion Systemtest benutzen)
-- [ ] 25 GiB Leitung Recherche
+- [x] 25 GiB Leitung Recherche ✅ 2026-06-01
 - [ ] Wir brauchen Work Order für netzwerk zur Artifactory (nach außen nur 25 Gigabit nicht mit 50 wir können auf 100 gehen mit workorder an Artifactory)
 
 - [ ] Use Case Liste durchlesen

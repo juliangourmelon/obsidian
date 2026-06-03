@@ -1,6 +1,6 @@
 
 -> 100 G Leitung zur Artifactory ist möglich
-- [ ] Recherche, was genau 100/ 25 GiB bedeuten würden
+- [x] Recherche, was genau 100/ 25 GiB bedeuten würden ✅ 2026-06-01
 - [ ] Mit Daniel abklären, ob Granite Endpoint ausreicht
 -> Die Hardware kann aggregiert werden, Florian braucht aber noch die echten Themen
 - [ ] Rausfinden, ob Service für Ansible Intelligent Assistant kostenpflichtig ist

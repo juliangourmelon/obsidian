@@ -18,20 +18,6 @@
             }
           },
           {
-            "id": "e9d7cead232efadd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Zettelkasten/Ansible Intelligent Assistant Use Case.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ansible Intelligent Assistant Use Case"
-            }
-          },
-          {
             "id": "9b333122be3c7cd7",
             "type": "leaf",
             "state": {
@@ -46,17 +32,59 @@
             }
           },
           {
-            "id": "157b4f9b6dd53c68",
+            "id": "8bddc6c6796e670a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Zettelkasten/Ansible Use Cases.md",
+                "file": "1 - Notizen/Woche 01. Juni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ansible Use Cases"
+              "title": "Woche 01. Juni"
+            }
+          },
+          {
+            "id": "dbd12acd2dcf82e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Zettelkasten/Ansible Intelligent Assistant.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ansible Intelligent Assistant"
+            }
+          },
+          {
+            "id": "bbcf8626ab92d44a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Notizen/Dashboard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "51c2a91422f50cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Notizen/Mandantentrennung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mandantentrennung"
             }
           },
           {
@@ -73,7 +101,8 @@
               "title": "ToDo's"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -232,34 +261,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7340b79670396642",
+  "active": "51c2a91422f50cfc",
   "lastOpenFiles": [
-    "1 - Notizen/Dashboard.md",
-    "6 - Zettelkasten/Ansible Intelligent Assistant Use Case.md",
-    "6 - Zettelkasten/Governance/Governance.md",
-    "6 - Zettelkasten/Ansible Intelligent Assistant.md",
-    "6 - Zettelkasten/Ansible Use Cases.md",
-    "3 - Tags/AAP.md",
-    "1 - Notizen/Woche 01. Juni.md",
-    "1 - Notizen/ToDo's.md",
-    "1 - Notizen/Gespräch Florian 29.05..md",
-    "1 - Notizen/Gespräch Alexander Kusdas 27.05.2026.md",
-    "3 - Tags/GPU.md",
-    "6 - Zettelkasten/NVIDIA Confidential Computing.md",
-    "3 - Tags/DSGVO.md",
+    "Dimensionalität 1.png",
+    "Dimensionalität.png",
+    "1 - Notizen/Argumente für 40 TB.md",
+    "1 - Notizen/Artifactory Ticket.md",
     "1 - Notizen/Zu klärende Punkte.md",
+    "1 - Notizen/Woche 01. Juni.md",
     "1 - Notizen/ToDos Workshop Nürnberg.md",
+    "1 - Notizen/ToDo's.md",
+    "1 - Notizen/Notizen Florian.md",
     "1 - Notizen/Nächste Schritte Obsidian.md",
-    "6 - Zettelkasten/AI Gateway/LiteLLM.md",
+    "1 - Notizen/Mandantentrennung.md",
+    "1 - Notizen/Gespräch Florian 29.05..md",
+    "1 - Notizen/Florian Gespräch 02.06..md",
+    "1 - Notizen/Dashboard.md",
+    "6 - Zettelkasten/Ansible Use Cases.md",
+    "6 - Zettelkasten/Ansible Intelligent Assistant.md",
+    "6 - Zettelkasten/Ansible Intelligent Assistant Use Case.md",
+    "6 - Zettelkasten/NVIDIA Confidential Computing.md",
+    "6 - Zettelkasten/Networking Rechenzentrum.md",
+    "6 - Zettelkasten/Model Repository.md",
     "6 - Zettelkasten/Artifactory.md",
-    "6 - Zettelkasten/AI Gateway/Anforderungskatalog.md",
-    "6 - Zettelkasten/AI Gateway/LiteMaaS.md",
-    "6 - Zettelkasten/AI Gateway/MCP-Gateways.md",
-    "7 - OneNote Import/Azure Security - KPMG - Julius.md",
-    "7 - OneNote Import/Sichere Modell- und Artefaktverwaltung.md",
-    "3 - Tags/AI_SECURITY.md",
-    "7 - OneNote Import/Glossar.md",
-    "3 - Tags/BSI.md",
+    "3 - Tags/NETWORKING.md",
+    "1 - Notizen/Gespräch Alexander Kusdas 27.05.2026.md",
+    "6 - Zettelkasten/Governance/Governance.md",
+    "3 - Tags/AAP.md",
+    "3 - Tags/GPU.md",
+    "3 - Tags/DSGVO.md",
     "7 - OneNote Import",
     "6 - Zettelkasten/Governance",
     "6 - Zettelkasten/Untitled 1.base",

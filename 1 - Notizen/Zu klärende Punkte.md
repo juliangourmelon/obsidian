@@ -1,5 +1,5 @@
 
-- [ ] Wir müssen uns überlegen, wie viel Speicherplatz wir in der Artifactory brauchen und wie viel Speicher wir den jeweiligen Bedarfsträgern zugestehen [[Artifactory#^125f05]]
+- [x] Wir müssen uns überlegen, wie viel Speicherplatz wir in der Artifactory brauchen und wie viel Speicher wir den jeweiligen Bedarfsträgern zugestehen [[Artifactory#^125f05]] ✅ 2026-06-01
 - [x] Probleme beim Networking beheben ✅ 2026-05-27
 	- Internet -> Artifactory
 	- (Artifactory -> Fusion)
