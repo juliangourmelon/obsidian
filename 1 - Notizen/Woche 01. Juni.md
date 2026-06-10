@@ -8,3 +8,5 @@
 - [ ] Dokument von Sven gegenlesen #sonstiges 
 - [ ] Daten von Caprice lesen
 - [ ] Vorlage von Caprice ausfüllen
+- [ ] Artifactory Aufteilung Gedanken machen
+- [ ] Garantiefall wenn Kabel einstecken -> mit Florian klären (müssen physische Kabel reingesteckt werden?)

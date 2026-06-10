@@ -4,7 +4,7 @@
 - IBM Experten sollen uns Wissen geben, aber nicht selber aktiv mitarbeiten (wir können uns auf KRITIS berufen)
 - Ich liefere Max und Marcus Infos, damit sie sich einarbeiten können
 - [ ] Rausfinden, wie viel TB wir mit NVMe, etc. auf der fusion haben
-- [ ] Technisches Blatt zur Fusion erstellen
+- [x] Technisches Blatt zur Fusion erstellen ✅ 2026-06-08
 - Granite 4 Modell und Granite Code auf Systemtest (erst auf VMs dann später in Container)
 	- Zeitlicher Rahmen: Ende Juni; Ende August
 	- Langfristig (nächstes Jahr) müssen Use Cases auf Prod
