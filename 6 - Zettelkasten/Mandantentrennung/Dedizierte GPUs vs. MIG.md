@@ -1,5 +1,5 @@
 Tags: [[GPU]]; [[AI_SECURITY]]
-Links: [[Dedizierte GPUs vs. MIG]]; [[Mandantentrennung]]; [[6 - Zettelkasten/NVIDIA Confidential Computing|NVIDIA Confidential Computing]]; [[Open Shift Confidential Containers]]
+Links: [[Dedizierte GPUs vs. MIG]]; [[Mandantentrennung]]; [[6 - Zettelkasten/Mandantentrennung/NVIDIA Confidential Computing|NVIDIA Confidential Computing]]; [[Open Shift Confidential Containers]]
 
 Konkrete Gefahren, die bei bei MIG auftreten, allerdings nicht bei dedizierten GPUs:
 - GPU-interne Side Channels

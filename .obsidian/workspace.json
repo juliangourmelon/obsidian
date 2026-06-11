@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Notizen/Diskussionen zur Mandantentrennung.md",
+                "file": "1 - Notizen/Woche vom 08. Juni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diskussionen zur Mandantentrennung"
+              "title": "Woche vom 08. Juni"
             }
           },
           {
@@ -210,34 +210,34 @@
   },
   "active": "7340b79670396642",
   "lastOpenFiles": [
+    "6 - Zettelkasten/Mandantentrennung/Diskussionen zur Mandantentrennung.md",
     "6 - Zettelkasten/Mandantentrennung/Mandantentrennung.md",
-    "1 - Notizen/Diskussionen zur Mandantentrennung.md",
+    "6 - Zettelkasten/Mandantentrennung/Dedizierte GPUs vs. MIG.md",
+    "6 - Zettelkasten/AI Gateway/Anforderungskatalog.md",
+    "1 - Notizen/Alt",
     "3 - Tags/MAAS.md",
     "6 - Zettelkasten/Governance/Governance.md",
     "1 - Notizen/Woche vom 08. Juni.md",
     "1 - Notizen/Notizen Gespräch Ralf.md",
     "1 - Notizen/Notizen GPU-Gespräch Leonardo.md",
     "1 - Notizen/Fragen an Michael Bier.md",
-    "6 - Zettelkasten/AI Gateway/Anforderungskatalog.md",
     "1 - Notizen/Untitled.md",
     "1 - Notizen/Dashboard.md",
-    "6 - Zettelkasten/NVIDIA Confidential Computing.md",
-    "1 - Notizen/Dedizierte GPUs vs. MIG.md",
+    "6 - Zettelkasten/Mandantentrennung/NVIDIA Confidential Computing.md",
     "1 - Notizen/Open Shift Confidential Containers.md",
-    "1 - Notizen/NVIDIA Confidential Computing.md",
+    "6 - Zettelkasten/AI Gateway/NVIDIA Confidential Computing.md",
     "6 - Zettelkasten/Ansible Intelligent Assistant.md",
-    "1 - Notizen/Beschwerde bei Johannes.md",
+    "1 - Notizen/Alt/Beschwerde bei Johannes.md",
     "1 - Notizen/Woche 01. Juni.md",
-    "1 - Notizen/Argumente für 40 TB.md",
+    "1 - Notizen/Alt/Argumente für 40 TB.md",
     "Dimensionalität 1.png",
     "Dimensionalität.png",
-    "1 - Notizen/Artifactory Ticket.md",
-    "1 - Notizen/Zu klärende Punkte.md",
+    "1 - Notizen/Alt/Artifactory Ticket.md",
+    "1 - Notizen/Alt/Zu klärende Punkte.md",
     "1 - Notizen/ToDos Workshop Nürnberg.md",
     "1 - Notizen/ToDo's.md",
     "1 - Notizen/Notizen Florian.md",
     "1 - Notizen/Nächste Schritte Obsidian.md",
-    "1 - Notizen/Gespräch Florian 29.05..md",
     "7 - OneNote Import",
     "6 - Zettelkasten/Governance",
     "6 - Zettelkasten/Untitled 1.base",
@@ -246,7 +246,6 @@
     "5 - Templates",
     "4 - Indexes",
     "3 - Tags",
-    "6 - Zettelkasten",
-    "1 - Notizen"
+    "6 - Zettelkasten"
   ]
 }

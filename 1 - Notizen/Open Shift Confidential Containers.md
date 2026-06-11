@@ -1,6 +1,6 @@
 
 Tags: [[GPU]]; [[GPU Mandantentrennung]]
-Links: [[Mandantentrennung]]; [[6 - Zettelkasten/NVIDIA Confidential Computing|NVIDIA Confidential Computing]]
+Links: [[Mandantentrennung]]; [[6 - Zettelkasten/Mandantentrennung/NVIDIA Confidential Computing|NVIDIA Confidential Computing]]
 
 - Kata Containers + Verschlüsselte Verarbeitung 
 - Linux Kernel sind bereits durch VMs getrennt

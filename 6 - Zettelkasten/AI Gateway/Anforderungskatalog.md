@@ -17,6 +17,18 @@ Tags: [[AI_GATEWAY]] [[MCP_GATEWAY]]
 - Einbindung von Governance ist möglich für uns an zentraler Stelle
 - Governance Einbindung kann feingranular eingestellt werden (bestimmte Guardrails für bestimmte Mandanten oder HCPs)
 - (GPU-Größe selbst wählen)
+- **Neu ab 10.06.**
+- Deployment muss mit ArgoCD automatisierbar sein
+- Wie die User ihre Zusätze (Guardrails) deployen ist noch offen:
+	- Eigene ArgoCD Instanz (aktuell bevorzugt)
+	- Konfiguration per UI hinzufügen (könnte schwierig werden)
+	- Zusätzliches eigenes Gateway im eigenen Tenant (könnte schwierig werden)
+	- Merge Request an uns stellen (sehe ich auch eher schwierig)
+- Gateway muss hoch-verfügbar sein
+- Gateway muss KV-Cloak implementieren können
+- Muss auch sonstige Custom-Guardrails hinzufügen können
+- Muss verschiedene IPs zur Verfügung stellen, damit unterschiedliche User auf das Gateway über unterschiedliche Firewallfreischaltungen zugreifen können
+- Gateway muss viele gleichzeitige Requests handeln können
 
 ## Kategorien: 
 
