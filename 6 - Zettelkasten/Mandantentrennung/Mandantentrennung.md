@@ -117,16 +117,16 @@ Die anderen HCPs und GPU-Nodes werden für PaaS verwendet: Hier trennen wir auf 
 
 ##### Erforderliche Schritte für die Entscheidungsfindung:
 
-- [ ] Mit Patrick / Michael Bier klären, ob es nicht doch die Möglichkeit für ein zentrales MaaS Deployment gibt
-- [ ] Gespräch mit Leonardo, ob Datenverarbeitung auf geteilter GPU-Ebene möglich ist
+- [x] Mit Patrick / Michael Bier klären, ob es nicht doch die Möglichkeit für ein zentrales MaaS Deployment gibt ✅ 2026-06-30
+- [x] Gespräch mit Leonardo, ob Datenverarbeitung auf geteilter GPU-Ebene möglich ist ✅ 2026-06-30
 - Anforderungen der DRV an Mandantentrennung müssen eingeholt werden:
 	- Ist (gehärtete) Namespace-Trennung ok? -> Ansonsten müssen wir uns mit 2-3 Mandanten zufrieden geben
 	- Werden dedizierte GPU-Nodes verlangt -> Dann sind wir bei einer der Lösungen mit 2-3 Mandanten
 	- Ist high-Availability weiterhin verlangt, auch wenn das mit erheblichen Einbußen bzgl. der Mandantenzahl und der Effizienz einhergeht?
-	- [ ] Termin mit Michael Bier ausmachen
-	- [ ] Termin mit Wiebke
+	- [x] Termin mit Michael Bier ausmachen ✅ 2026-06-30
+	- [x] Termin mit Wiebke ✅ 2026-06-30
 - Einschätzung zum Betriebsaufwand von Dedizierten GPU-Karten von Jens Lindenberg
-	- [ ] Termin mit Jens ausmachen
+	- [x] Termin mit Jens ausmachen ✅ 2026-06-30
 - Tatsächliche Risiken der unterschiedlichen GPU-Trennungsstufen müssen evaluiert und für die Entscheidungsträger verständlich dokumentiert werden
 	- [ ] Fragen an Norbert zur Mail stellen📅 2026-06-07 
 - Möglichkeiten zur Härtung der Sicherheit wie CoCo oder NCC müssen gegen die Risiken evaluiert und für Entscheidungsträger verständlich dokumentiert werden.

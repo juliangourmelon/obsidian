@@ -1,12 +1,12 @@
 
-- [ ] Arzttermine ausmachen #sonstiges
+- [x] Arzttermine ausmachen #sonstiges ✅ 2026-06-30
 - [x] Spesenabrechnung einreichen #sonstiges ✅ 2026-06-02
 - [x] Bewirtungsbeleg einreichen #sonstiges ✅ 2026-06-01
 - [x] Florians Notizen übertragen ✅ 2026-06-01
 - [x] Leni Mittwoch #sonstiges ✅ 2026-06-01
 - [ ] Tobi App #sonstiges 
 - [ ] Dokument von Sven gegenlesen #sonstiges 
-- [ ] Daten von Caprice lesen
-- [ ] Vorlage von Caprice ausfüllen
+- [x] Daten von Caprice lesen ✅ 2026-06-30
+- [x] Vorlage von Caprice ausfüllen ✅ 2026-06-30
 - [ ] Artifactory Aufteilung Gedanken machen
-- [ ] Garantiefall wenn Kabel einstecken -> mit Florian klären (müssen physische Kabel reingesteckt werden?)
+- [x] Garantiefall wenn Kabel einstecken -> mit Florian klären (müssen physische Kabel reingesteckt werden?) ✅ 2026-06-30

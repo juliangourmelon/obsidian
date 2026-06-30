@@ -1,8 +1,8 @@
 
 - [ ] Fragen an Florian: Wäre es auch möglich, die Verbindung zwischen den beiden Fusions hochzuschrauben? 📅 2026-06-09 
-- [ ] Florian fragen, ob es ein Problem ist, dass alles was bei der Fusion Hardware-technisch gemacht werden muss, durch einen IBM-Techniker geschehen muss? 📅 2026-06-08 
-- [ ] Florian fragen, ob Meeting mit mir und Daniel
-- [ ] Eigene Gateways bei den Bedarfsträgern!!! 📅 2026-06-12 
+- [x] Florian fragen, ob es ein Problem ist, dass alles was bei der Fusion Hardware-technisch gemacht werden muss, durch einen IBM-Techniker geschehen muss? 📅 2026-06-08 ✅ 2026-06-30
+- [x] Florian fragen, ob Meeting mit mir und Daniel ✅ 2026-06-30
+- [x] Eigene Gateways bei den Bedarfsträgern!!! 📅 2026-06-12 ✅ 2026-06-30
 
 
 Der entscheidende Unterschied ist, dass Mandanten nur noch über das AI-Gateway per Prompt auf die Plattform zugreifen können. Es können keine eigenen Container IN der Plattform gestartet werden in denen potentiell gefährlicher Code ausgeführt werden könnte. Natürlich können auch über Prompts diverse Angriffe ausgeführt werden: das wäre allerdings im ursprünglichen Modell ebenfalls ein Thema. Hier ist es allerdings noch relevanter, da oftmals mehrere Mandanten dasselbe Modell benutzen. Angriffe über Prompts können über das AI-Gateway (und entsprechende Sicherheit innerhalb der Modelle) abgefangen werden. (KV-Cache)

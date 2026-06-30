@@ -1,5 +1,5 @@
 
-- Norbert hat wochenlang gegen meine Vorschläge bzgl. Mandantentrennung argumentiert:
+- asdf hat wochenlang gegen meine Vorschläge bzgl. Mandantentrennung argumentiert:
 	- Dedizierte GPUs
 	- Kata-Containers
 	- NVIDIA Confidential Computing
@@ -8,4 +8,4 @@
 - Anhand seiner Argumente war zu erkennen, dass er alle eben genannten Themen nicht wirklich verstanden hatte
 - Nachdem ich über Wochen mit den Themen nicht locker gelassen habe, hat er sich jetzt auch endlich dbzgl. informiert
 - Jetzt hat er Input von externen Ressourcen (die ihm dieselben Punkte empfohlen haben wie ich vorher) und stellt diesen vor Martin / der DRV als seine eigenen Ideen dar
-- Wenn ich Norbert nicht EXTREM unterstütze in Gesprächen mit dem Kunden und ihn in jedem zweiten Satz für seinen Input lobe wird er extrem unangenehm (unfreundlich, herablassend, kritisiert jeden meiner Vorschläge, versucht mich vor IBM-Kollegen/ dem Kunden bloßzustellen)
+- Wenn ich asdf nicht EXTREM unterstütze in Gesprächen mit dem Kunden und ihn in jedem zweiten Satz für seinen Input lobe wird er extrem unangenehm (unfreundlich, herablassend, kritisiert jeden meiner Vorschläge, versucht mich vor IBM-Kollegen/ dem Kunden bloßzustellen)

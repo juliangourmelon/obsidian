@@ -37,7 +37,7 @@
 - [x] Ansible Lightspeed Use Case in Masterliste übernehmen 📅 2026-06-01 ✅ 2026-06-02
 - [ ] Rausfinden, welche Availability wir brauchen für AAP (sonst können wir die Fusion Systemtest benutzen)
 - [x] 25 GiB Leitung Recherche ✅ 2026-06-01
-- [ ] Wir brauchen Work Order für netzwerk zur Artifactory (nach außen nur 25 Gigabit nicht mit 50 wir können auf 100 gehen mit workorder an Artifactory)
+- [x] Wir brauchen Work Order für netzwerk zur Artifactory (nach außen nur 25 Gigabit nicht mit 50 wir können auf 100 gehen mit workorder an Artifactory) ✅ 2026-06-30
 
-- [ ] Use Case Liste durchlesen
+- [x] Use Case Liste durchlesen ✅ 2026-06-30
 - [ ] Morgenroutine #sonstiges 
