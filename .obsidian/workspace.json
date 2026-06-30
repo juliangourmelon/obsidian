@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Notizen/Woche vom 08. Juni.md",
+                "file": "6 - Zettelkasten/AI Gateway/Anforderungskatalog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Woche vom 08. Juni"
+              "title": "Anforderungskatalog"
+            }
+          },
+          {
+            "id": "d0cfbef4af5433f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Notizen/Alt/Beschwerde bei Johannes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Beschwerde bei Johannes"
+            }
+          },
+          {
+            "id": "c7d0313a3a3ca08a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Notizen/Nächste Schritte Obsidian.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nächste Schritte Obsidian"
+            }
+          },
+          {
+            "id": "e620f29e72253324",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Notizen/Woche 15. Juni.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Woche 15. Juni"
             }
           },
           {
@@ -49,7 +91,8 @@
               "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,16 +251,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7340b79670396642",
+  "active": "c7d0313a3a3ca08a",
   "lastOpenFiles": [
-    "6 - Zettelkasten/Mandantentrennung/Diskussionen zur Mandantentrennung.md",
-    "6 - Zettelkasten/Mandantentrennung/Mandantentrennung.md",
-    "6 - Zettelkasten/Mandantentrennung/Dedizierte GPUs vs. MIG.md",
+    "1 - Notizen/ToDo's.md",
+    "1 - Notizen/Alt/ToDos Workshop Nürnberg.md",
+    "1 - Notizen/Alt/Zu klärende Punkte.md",
+    "1 - Notizen/Alt/Gespräch Johannes.md",
+    "1 - Notizen/Woche 15. Juni.md",
+    "1 - Notizen/Alt/Beschwerde bei Johannes.md",
+    "1 - Notizen/Ausbaustufen MaaS.md",
     "6 - Zettelkasten/AI Gateway/Anforderungskatalog.md",
+    "6 - Zettelkasten/Mandantentrennung/Mandantentrennung.md",
+    "6 - Zettelkasten/Mandantentrennung/GPU Mandantentrennung.md",
+    "1 - Notizen/Woche vom 08. Juni.md",
+    "6 - Zettelkasten/Mandantentrennung/Diskussionen zur Mandantentrennung.md",
+    "6 - Zettelkasten/Mandantentrennung/Dedizierte GPUs vs. MIG.md",
     "1 - Notizen/Alt",
     "3 - Tags/MAAS.md",
     "6 - Zettelkasten/Governance/Governance.md",
-    "1 - Notizen/Woche vom 08. Juni.md",
     "1 - Notizen/Notizen Gespräch Ralf.md",
     "1 - Notizen/Notizen GPU-Gespräch Leonardo.md",
     "1 - Notizen/Fragen an Michael Bier.md",
@@ -227,17 +278,10 @@
     "1 - Notizen/Open Shift Confidential Containers.md",
     "6 - Zettelkasten/AI Gateway/NVIDIA Confidential Computing.md",
     "6 - Zettelkasten/Ansible Intelligent Assistant.md",
-    "1 - Notizen/Alt/Beschwerde bei Johannes.md",
     "1 - Notizen/Woche 01. Juni.md",
     "1 - Notizen/Alt/Argumente für 40 TB.md",
     "Dimensionalität 1.png",
     "Dimensionalität.png",
-    "1 - Notizen/Alt/Artifactory Ticket.md",
-    "1 - Notizen/Alt/Zu klärende Punkte.md",
-    "1 - Notizen/ToDos Workshop Nürnberg.md",
-    "1 - Notizen/ToDo's.md",
-    "1 - Notizen/Notizen Florian.md",
-    "1 - Notizen/Nächste Schritte Obsidian.md",
     "7 - OneNote Import",
     "6 - Zettelkasten/Governance",
     "6 - Zettelkasten/Untitled 1.base",

@@ -1,4 +1,5 @@
 Tags: [[GPU]] 
+Links: [[Mandantentrennung]]
 
 ## GPU Aufteilung und Risiken
 ## Datenschutzrechtliche Aspekte

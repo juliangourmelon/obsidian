@@ -1,0 +1,9 @@
+
+Hi Johannes, 
+ich hoffe, du hattest einen erholsamen Urlaub! :) 
+Ich habe mir unser letztes Gespräch bzgl. des Quasar-Termins die letzten Wochen noch öfter durch den Kopf gehen lassen und ich bin wirklich unglücklich mit der Lösung, den Quasar auf nächstes Jahr zu verschieben. Meine Leistung im DRV-Projekt zeigt, dass ich eigentlich auch jetzt schon auf dem Leistungsstand eines Senior Consultants bin. (Ich habe dir eine Mail mit einer Referenz unseres Projektleiters weitergeleitet.) Die KI-Architektur und das Betriebsmodell der Fusion-Racks beruhen zu großen Teilen auf meinen Vorschlägen. Ich bin in dem Projekt die Schnittstelle zwischen Compliance-, Projektmanagement-, Infrastruktur- und KI-Verantwortlichen, weil ich die Person bin, die in allen Bereichen ein ausreichend tiefes Verständnis aufweist, um die Bereiche mit den anderen zu koordinieren sowie Absprachen und Kompromisse durchzusetzen. Die Qualität meiner Arbeit ist aktuell der entscheidende Faktor, die Personalpräsenz von CC in dem Projekt aufrechtzuerhalten und mittelfristig weiter auszubauen. 
+
+Zusätzlich hat mich der Umgang des Betriebsrates mit Überstunden etwas verunsichert. Ich verstehe, dass der Grundgedanke der Schutz der Arbeitnehmenden ist, aber ich sehe auch meine Chancen durch Mehrleistung positiv aufzufallen stark beschränkt. Ich glaube nicht, dass eine 40 Stunden Woche mittel- bis langfristig mit meinem beruflichen Ehrgeiz vereinbar ist.
+
+Ich will gerne mehr als die vertraglich vereinbarten 40 Stunden arbeiten und mich auch privat weiter fortbilden, aber ich möchte auch das Gefühl haben, dass sich das für mich lohnt. Versteh mich bitte nicht falsch, ich bin mit Computacenter, der Führung und Förderung sowie dem Projekt an sich sehr zufrieden, aber aktuell fehlt mir das Gefühl, dass sich harte und hervorragende Arbeit für mich lohnt.
+Ich fände es wichtig, dass wir zeitnah nochmal über mögliche Lösungen sprechen, hättest du demnächst Zeit für mich?
