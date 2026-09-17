@@ -4,9 +4,9 @@ Tags: [[NETWORKING]]
 - Owner KI-Servicekennung
 - Abteilung gq0900
 - TN00 und TN91 sind das Rechenzentrum selbst
-- [ ] Black Fibre recherchieren
+- [x] Black Fibre recherchieren ✅ 2026-09-17
 - [x] Netzwerk bonden/aggregieren recherchieren ✅ 2026-06-01
-- [ ] Netzwerkkarten 400 GB recherchieren
+- [x] Netzwerkkarten 400 GB recherchieren ✅ 2026-09-17
 - Storage DVP-Antrag geht an Alexander Preuß
-- [ ] Hitatchi recherchieren -> langsame / schnelle Platten
+- [x] Hitatchi recherchieren -> langsame / schnelle Platten ✅ 2026-09-17
 - Ende Juli kommt s3 als Speicher für die Artifactory

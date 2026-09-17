@@ -4,9 +4,9 @@
 - [x] Bewirtungsbeleg einreichen #sonstiges ✅ 2026-06-01
 - [x] Florians Notizen übertragen ✅ 2026-06-01
 - [x] Leni Mittwoch #sonstiges ✅ 2026-06-01
-- [ ] Tobi App #sonstiges 
-- [ ] Dokument von Sven gegenlesen #sonstiges 
+- [x] Tobi App #sonstiges ✅ 2026-09-17
+- [x] Dokument von Sven gegenlesen #sonstiges ✅ 2026-09-17
 - [x] Daten von Caprice lesen ✅ 2026-06-30
 - [x] Vorlage von Caprice ausfüllen ✅ 2026-06-30
-- [ ] Artifactory Aufteilung Gedanken machen
+- [x] Artifactory Aufteilung Gedanken machen ✅ 2026-09-17
 - [x] Garantiefall wenn Kabel einstecken -> mit Florian klären (müssen physische Kabel reingesteckt werden?) ✅ 2026-06-30

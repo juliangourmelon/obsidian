@@ -128,7 +128,7 @@ Die anderen HCPs und GPU-Nodes werden für PaaS verwendet: Hier trennen wir auf 
 - Einschätzung zum Betriebsaufwand von Dedizierten GPU-Karten von Jens Lindenberg
 	- [x] Termin mit Jens ausmachen ✅ 2026-06-30
 - Tatsächliche Risiken der unterschiedlichen GPU-Trennungsstufen müssen evaluiert und für die Entscheidungsträger verständlich dokumentiert werden
-	- [ ] Fragen an Norbert zur Mail stellen📅 2026-06-07 
+	- [x] Fragen an Norbert zur Mail stellen 📅 2026-06-07 ✅ 2026-09-17
 - Möglichkeiten zur Härtung der Sicherheit wie CoCo oder NCC müssen gegen die Risiken evaluiert und für Entscheidungsträger verständlich dokumentiert werden.
 - Übersicht zu Möglichkeiten der virtuellen Trennung auf Namespace-Ebene einholen (von Steffen Lützenkirchen - alternativ von CC)
 - Einschätzung bzgl. des Betriebsaufwandes einer Lösung mit Trennung auf Namespace-Ebene mit gehärteter Sicherheit von RedHat / CC

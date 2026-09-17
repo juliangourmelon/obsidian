@@ -3,9 +3,9 @@
 - Max Toran wird uns unterstützen
 - IBM Experten sollen uns Wissen geben, aber nicht selber aktiv mitarbeiten (wir können uns auf KRITIS berufen)
 - Ich liefere Max und Marcus Infos, damit sie sich einarbeiten können
-- [ ] Rausfinden, wie viel TB wir mit NVMe, etc. auf der fusion haben
+- [x] Rausfinden, wie viel TB wir mit NVMe, etc. auf der fusion haben ✅ 2026-09-17
 - [x] Technisches Blatt zur Fusion erstellen ✅ 2026-06-08
 - Granite 4 Modell und Granite Code auf Systemtest (erst auf VMs dann später in Container)
 	- Zeitlicher Rahmen: Ende Juni; Ende August
 	- Langfristig (nächstes Jahr) müssen Use Cases auf Prod
-- [ ] Mit Norbert besprechen, dass er den Freigabeprozess für das Watson Granite Code Modell mit Wiebke beantragt (Florian kann helfen, das Thema zu beschleunigen)
+- [x] Mit Norbert besprechen, dass er den Freigabeprozess für das Watson Granite Code Modell mit Wiebke beantragt (Florian kann helfen, das Thema zu beschleunigen) ✅ 2026-09-17

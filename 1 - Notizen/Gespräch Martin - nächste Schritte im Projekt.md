@@ -1,0 +1,5 @@
+- [ ] Absprache, welche konkreten Cluster für den Lightspeed Assistant Use Case genutzt werden sollen
+- [ ] Frageliste für interne Use Cases (welche Informationen brauchen wir für interne Use Cases wie den Ansible Lightspeed Use Case)
+- [ ] Recherche über CPU-basierte KI: wie würden wir die am besten anbinden, welche Hardware bräuchten wir, welche Modelle sind interessant
+- [ ] Entscheidungsgrundlage: Wollen wir die Fusion erweitern oder anderweitige Hardware besorgen?
+- [ ] Recherche zum KI-Projekt der Telekom (BSI-konforme Modelle)

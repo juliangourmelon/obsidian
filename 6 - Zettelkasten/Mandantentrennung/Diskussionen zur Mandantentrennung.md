@@ -4,7 +4,7 @@ Links: [[Mandantentrennung]]
 
 ##### Gespräch mit Jens:
 
-- [ ] Rausfinden, ob es bisher schon viele PaaS Use Cases gibt (eigenes Modell-Training) -> Master-Liste kann hier Aufschluss geben
+- [x] Rausfinden, ob es bisher schon viele PaaS Use Cases gibt (eigenes Modell-Training) -> Master-Liste kann hier Aufschluss geben ✅ 2026-09-17
 - Evtl. wäre Training in der Nacht möglich
 - Mehrere Gateways? -> pro Kunde ein eigenes Gateway bzw. einen Proxy (Ursprünglicher Vorschlag von Jens)
 - Wo sollen die Gateways deployed werden?

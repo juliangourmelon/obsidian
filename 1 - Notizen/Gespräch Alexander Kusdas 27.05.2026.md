@@ -8,5 +8,5 @@ Tags: [[DSGVO]]; [[AI_GATEWAY]]; [[AI_SECURITY]]
 - Guardrails: richten sich nach den Use Cases -> selbst wenn wir MaaS betreiben können die Modelle in unterschiedlichen Risikostufen verwendet werden; Anmerkung Julian: wir sollten den Bedarfsträgern die Möglichkeit geben, die Guardrails selber einzustellen
 - Bei der DRV scheinen selbst Krankenkassendaten nur als "hoch" eingeschätzt werden. Vgl: [[Gespräch Nadine 21.05.]]
 - Es gibt intern in der DRV schon ein Datenmanagementkonzept -> das sollten wir uns mal anschauen:
--  [ ] Nachhaken bei Alexander, dass ich das Datenmanagementkonzept gezeigt bekomme 📅 2026-06-02 
+- [x] Nachhaken bei Alexander, dass ich das Datenmanagementkonzept gezeigt bekomme 📅 2026-06-02 ✅ 2026-09-17
 - [x] Nachfragen, wer der Datenschutzverantwortliche Ebel ist 📅 2026-06-01 ✅ 2026-06-01

@@ -1,5 +1,5 @@
 
-- [ ] Fragen an Florian: Wäre es auch möglich, die Verbindung zwischen den beiden Fusions hochzuschrauben? 📅 2026-06-09 
+- [x] Fragen an Florian: Wäre es auch möglich, die Verbindung zwischen den beiden Fusions hochzuschrauben? 📅 2026-06-09 ✅ 2026-09-17
 - [x] Florian fragen, ob es ein Problem ist, dass alles was bei der Fusion Hardware-technisch gemacht werden muss, durch einen IBM-Techniker geschehen muss? 📅 2026-06-08 ✅ 2026-06-30
 - [x] Florian fragen, ob Meeting mit mir und Daniel ✅ 2026-06-30
 - [x] Eigene Gateways bei den Bedarfsträgern!!! 📅 2026-06-12 ✅ 2026-06-30

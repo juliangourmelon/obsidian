@@ -8,7 +8,7 @@
 		- jeden Tag wegen BSI?
 		- immer wenn Endpunkt das erste Mal an dem Tag angesprochen wird?
 	- Lohnt es sich, Modelle auf der Fusion zwischenzuspeichern? Wenn ja, welche? (klein, groß, häufig verwendet)
-- [ ] Wann und wie werden Modelle in der Artifactory gescannt? #ongoing
+- [x] Wann und wie werden Modelle in der Artifactory gescannt? #ongoing ✅ 2026-09-17
 	- beim Download?
 	- gibt es bereits fertige Tekton Build Pipelines?
 	- jedes Mal, wenn sie gezogen werden aus der Artifactory? (ist ja irgendwie Overkill, wenn sie dort unverändert liegen, aber evtl. BSI-technisch relevant?) 
@@ -16,6 +16,6 @@
 
 
 
-- [ ] Architekturkonzept #ongoing
-- [ ] Erhöhung Bandbreite Artifactory -> Fusion #ongoing 
-- [ ] Anforderungsliste AI-Gateway #ongoing 
+- [x] Architekturkonzept #ongoing ✅ 2026-09-17
+- [x] Erhöhung Bandbreite Artifactory -> Fusion #ongoing ✅ 2026-09-17
+- [x] Anforderungsliste AI-Gateway #ongoing ✅ 2026-09-17
