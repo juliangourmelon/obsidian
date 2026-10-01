@@ -41,3 +41,8 @@
 
 - [x] Use Case Liste durchlesen ✅ 2026-06-30
 - [x] Morgenroutine #sonstiges ✅ 2026-09-17
+I think we might have overengineered this problem a little too much. Let's take a step back and leave out the watermark tables and the API retries for now.
+
+I would still like the basic logic where I do an initial full load and then delta loads (and every two weeks a reconciliation loop = full load again). Let's image I do the extra step of first downloading everything as .gz files. Then I would load it into bronze and then do the silver scd2 historization.
+
+Am I right in the assumption that I will need two different forms of historization for silver (AUTO CDC for the delta loads and AUTO CDC FROM SNAPSHOT for the reconcilliation loop)? Are there two different API versions for the defender knowledge base too? One where I get the current state for the full loads and one where I get changes since a specific date? Will those changes already have a column I need for AUTO CDC (deleted, changed, new)? Does it then make sense to have two different bronze tables?
