@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Notizen/Ausformulierung Arbeitspakete.md",
+                "file": "6 - Zettelkasten/Hugging Face & Chinesische Modelle/Argumente für die Freischaltung von Hugging Face.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ausformulierung Arbeitspakete"
+              "title": "Argumente für die Freischaltung von Hugging Face"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,14 +223,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5916768fd693c2b3",
+  "active": "51455e0c62494027",
   "lastOpenFiles": [
-    "6 - Zettelkasten/Agentic Use Case/00_Allgemeine Infos.md",
-    "6 - Zettelkasten/Agentic Use Case/Fragen DSGVO.md",
-    "6 - Zettelkasten/Agentic Use Case/Fragen KI-Team.md",
-    "1 - Notizen/Bewertung Hugging Face.md",
-    "6 - Zettelkasten/Agentic Use Case",
+    "6 - Zettelkasten/Hugging Face & Chinesische Modelle/Bewertung Hugging Face.md",
+    "6 - Zettelkasten/Hugging Face & Chinesische Modelle/Argumente von Leonardo (chin. Modelle).md",
+    "6 - Zettelkasten/Hugging Face & Chinesische Modelle/Argumente für die Freischaltung von Hugging Face.md",
+    "6 - Zettelkasten/Hugging Face & Chinesische Modelle/Mögliche Sicherheitsmechanismen.md",
+    "6 - Zettelkasten/Netzwerktechnische Abtrennung der Fusion/Allgemeines.md",
+    "6 - Zettelkasten/Hugging Face & Chinesische Modelle",
     "1 - Notizen/Ausformulierung Arbeitspakete.md",
+    "6 - Zettelkasten/Netzwerktechnische Abtrennung der Fusion",
+    "6 - Zettelkasten/Agentic Use Case/Fragen DSGVO.md",
+    "6 - Zettelkasten/Agentic Use Case/00_Allgemeine Infos.md",
+    "6 - Zettelkasten/Agentic Use Case/Fragen KI-Team.md",
+    "6 - Zettelkasten/Agentic Use Case",
     "6 - Zettelkasten/CVE Agent/Workflow.md",
     "6 - Zettelkasten/Ansible Lightspeed Intelligent Assistant/Architektur Custom Use Case.md",
     "6 - Zettelkasten/CVE Agent",
@@ -250,17 +256,11 @@
     "6 - Zettelkasten/Telekom KI-Test/Telekom MaaS.md",
     "6 - Zettelkasten/Telekom KI-Test/MISSION KI.md",
     "6 - Zettelkasten/Telekom KI-Test/IC4 – Artificial Intelligence Cloud Service Compliance Criteria Catalogue.md",
-    "6 - Zettelkasten/Use Case Frageliste/Relevante Informationen zum Ansible Light Speed Use Case.md",
-    "6 - Zettelkasten/Use Case Frageliste/Relevante Informationen zu Use Cases.md",
-    "6 - Zettelkasten/Use Case Frageliste/Use Case Liste.md",
     "6 - Zettelkasten/Use Case Frageliste",
-    "6 - Zettelkasten/Databricks/Notizen 10.09.2026.md",
     "6 - Zettelkasten/CPU-based-AI",
     "6 - Zettelkasten/Telekom KI-Test",
     "6 - Zettelkasten/Ansible Lightspeed Intelligent Assistant",
     "6 - Zettelkasten/Databricks",
-    "6 - Zettelkasten/Artifactory",
-    "6 - Zettelkasten/AI Gateway neu",
     "Dimensionalität 1.png",
     "Dimensionalität.png"
   ]

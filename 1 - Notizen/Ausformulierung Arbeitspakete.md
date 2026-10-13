@@ -9,7 +9,7 @@
 	- Öffentliche MaaS/ PaaS-Angebote?
 		- Welcher Provider?
 	- CPU-Inferenz
-		- Welche Workloads können auf andere CPU-unterstützte Cluster ausgelagert werden
+		- Welche Workloads können auf andere CPU-unterstützte Cluster ausgelagert werden?
 
 
 
@@ -17,7 +17,7 @@
 
 ##### Netzwerkseparierung
 
-- Wollen wir einen eigenen Tenant haben?
+- Soll die Fusion in einem eigenen Tenant platziert werden?
 - Wie soll der Tenant netzwerktechnisch abgetrennt sein?
 
 ##### Überwachung
@@ -29,4 +29,5 @@
 
 ##### Georedundanz
 
-- Brauchen wir Georedundanz? 
+- Brauchen wir für die Use Case Workloads Georedundanz? 
+- Brauchen wir für KI-unterstützte Security Georedundanz?

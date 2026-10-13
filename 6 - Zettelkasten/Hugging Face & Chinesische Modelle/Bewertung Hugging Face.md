@@ -1,4 +1,4 @@
-
+Links: [[Argumente für die Freischaltung von Hugging Face|Argumente für die Freischaltung von Hugging Face]]
 
 Zusätzliche Gefahr durch den Angriff im Juli: 
 - Repos könnten manipuliert worden sein, was eine Gefahr für unsere Lieferkette darstellt
